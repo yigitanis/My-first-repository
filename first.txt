@@ -1,5 +1,6 @@
 I am here now 
-This text has only one sentnce.
+This text has only one sentence.
 Now I can change the file. 
 
 First changing
+I change this file.
